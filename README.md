@@ -1,4 +1,12 @@
-slider-gallery-responsive
-=========================
+Slider Gallery
+==========================================
 
-A script for responsive slider gallery.
+A responsive slider gallery script
+
+
+Requirements
+------------------------------------------
+Font Awesome http://fortawesome.github.io/Font-Awesome/
+jQuery
+
+
